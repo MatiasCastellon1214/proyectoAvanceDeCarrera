@@ -1,0 +1,76 @@
+[{
+    "nombreMateria":"Introducción a la Informática",
+    "modulos":{
+        "uno": "En este módulo introductorio, exploramos la Interfaz de Usuario a través de la Terminal (CLI) junto con la instalación de herramientas clave como VSCode y Gitbash. Aprendimos a maniobrar en la Terminal utilizando comandos básicos de Bash, adquiriendo habilidades fundamentales para la gestión de archivos y carpetas. En cuanto a Git, nos sumergimos en la creación de repositorios, la inclusión de archivos en los mismos y la sincronización con Github. Este proceso incluyó la resolución de conflictos y la comprensión del funcionamiento de las ramas en Github.",
+        "dos": "En esta etapa, adquirimos una visión panorámica de la estructura y tecnologías de las computadoras. Analizamos el paradigma de la arquitectura de Von Neumann y exploramos las diferencias entre CPU y GPU. Profundizamos en la jerarquía de memorias y unidades de medida, distinguiendo entre la memoria principal y secundaria. Además, abordamos los conceptos clave de los sistemas operativos y realizamos prácticas instalando máquinas virtuales en un entorno de centro de cómputos.",
+        "tres": "En este módulo, nos sumergimos en los lenguajes de programación y sus paradigmas, explorando los distintos ecosistemas que los rodean. Además, incursionamos en la configuración de escritorios remotos y maquinas virtuales, comprendiendo su importancia en el desarrollo y la ejecución de aplicaciones.",
+        "cuatro": "Aquí nos adentramos en el mundo de las redes informáticas. Estudiamos las diferentes clasificaciones y velocidades de Internet, y tuvimos la oportunidad de armar nuestra propia red en un entorno doméstico. Profundizamos en la comprensión de los protocolos de Internet, desde su funcionamiento básico y direccionamiento IP hasta la complejidad del modelo OSI y la fragmentación en redes avanzadas.",
+        "cinco": "En este último módulo, exploramos el vasto mundo de la seguridad informática. Identificamos diversos tipos de amenazas y nos sumergimos en estrategias de protección de la información, abordando tanto la seguridad física como la lógica, así como los desafíos éticos en el ámbito informático. Discutimos temas cruciales como el fraude y los delitos informáticos, la protección de la propiedad intelectual y la importancia de la ética en la industria del software."
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+},
+{
+    "nombreMateria":"Frontend 1",
+    "modulos":{
+        "uno": "ghpishdoighsodihgoidshogihsdoihgosdigdg.",
+        "dos": "´dgss´pgksd8gsdlgñmñlmñlmñl",
+        "tres": "fhdkfkhlkdfjlhkjlfdh"
+    }
+}
+
+]

@@ -1,0 +1,192 @@
+[{
+    "imgUrl": "img/introInfomatica.png",
+    "nombre": "INTRODUCCIÓN A LA INFORMÁTICA",
+    "bimestre": "1° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": " - INMERSIÓN: Introducción: introducción a la historia de la informática; Interfaz de Usuario-Terminal (CLI): instalando VSCode y Git Bash, la terminal, moviéndonos por las carpetas; Git: introducción a Git, instalación de Git, creando nuestro primer repositorio local, agregando archivos al repositorio, confirmando archivos; GitHub: GitHub, conectando nuestro primer repositorio local, subiendo archivos, bajando archivos, resolviendo conflictos, rama en GitHub.",
+        "dos": " - HARDWARE Y SOFTWARE: Estructura y Tecnología de computadoras: the Big Picture, ¿quién piensa?, arquitectura de Von Neumann, GPU vs CPU; Memorias: introducción a las memorias, unidades de medida, memoria principal, memoria secundaria; Sistemas Operativos: sistemas operativos, el centro de cómputos, instalación de máquinas virtuales, si quieres saber más....",
+        "tres": " - HERRAMIENTAS DE TRABAJO: Lenguajes y Paradigmas de Programación: lenguajes de programación, paradigmas de programación, ecosistemas de lenguajes, escritorios remotos, máquinas virtuales.",
+        "cuatro": " - SURFEANDO INTERNET: Redes: redes y clasificación, introducción a medios de transmisión de datos, velocidades de internet, armar mi propia red en casa; Protocolos de internet (Inicial) I: ¿cómo funciona internet?, la famosa dirección IP; Protocolos de Internet (Intermedio) II: modelo OSI, direccionamiento; Protocolos de Internet (Avanzado) III: redes y fragmentación, direccionamiento externo.",
+        "cinco": " - EVITANDO EL NAUFRAGIO: Amenazas Informáticas: introducción al módulo, tipos de amenazas informáticas, protección de la información; Seguridad Informática: componentes básicos de la seguridad, medidas de protección, seguridad física y lógica, seguridad en internet."
+    },
+    "palabrasClave":{
+        "uno": "Git",
+        "dos": "Git Hub",
+        "tres": "VSCode",
+        "cuatro": "Virtual Box",
+        "cinco": "Git Bash"
+    }
+  },
+  {
+    "imgUrl": "img/frontend1.png",
+    "nombre": "FRONTEND 1",
+    "bimestre": "1° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": " - USO DE HERRAMIENTAS: ¿Qué es ser un desarrollador front end?, arquitectura cliente-servidor, diferencia entre web e internet; Uso de Herramientas: herramientaas de un desarrollador front end, wireframes, introducción a Figma,VSC y carpetas, estructura de carpetas, navegadores y dispositivos.",
+        "dos": " - INTRODUCIÓN A ESTRUCTURAS Y ESTILOS: Introdución al Lenguaje de Maquetación: introducción a HTML, etiquetas y atributos, etiquetas semánticas, elementos de línea y de bloque; Etiquetas: lisas, etiquets de texto, rutas, hipervínculos e imágenes, accesibilidad, GitHub pages; Introducción al Lenguaje de Estilos CSS: introducción a CSS, fuentes, colores, inspector de propiedades, buenas prácticas; Propiedades CSS: fondos, fuentes genéricas, web y locales, íconos; Modelo de Cajas: modelo de cajas, posiciones, posiciones Z-index.",
+        "tres": " - ESTRUCTURA AVANZADA: Cajas Flexibles: introducción, ejes, estructura básica,, ítems; Diseño Adaptativo: viewports, medidas relativas, media queries; Fomularios: formularios en HTML, radio button y checkboxes, formularios avanzados, formularios accesibles.",
+        "cuatro": " - ESTILOS AVANZADOS: Pseudoselectores: pseudo selectores; Animaciones CSS: introducción a animaciones, transform, keyframes, transition;  Evaluación Final"
+    },
+    "palabrasClave":{
+        "uno": "HTML",
+        "dos": "CSS",
+        "tres": "SCSS",
+        "cuatro": "Bootstrap",
+        "cinco": "VSCode",
+        "seis": "Figma"
+    }
+  },
+  {
+    "imgUrl": "img/baseDeDatos1.png",
+    "nombre": "BASE DE DATOS 1",
+    "bimestre": "2° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": " - INTRODUCCIÓN A BASE DE DATOS: ¡Hola, Mundo!, ¿por qué base de datos?, ¿qué herramientas vamos a utilizar?; Introducción a Base de Datos: ¿qué es una base de datos?, base de datos vs archivos planos, motores de base de datos, modelo de base de datos;",
+        "dos": " - MODELADO DE BASE DE DATOS: Entidades: modelo de base de datos, entidades y atributos, caso de estudio: UBER, hacia el encuentro sincrónico: desafío de definición de entidades; Datos: tipos de datos, glosario de tipos de datos, validemos lo aprendido; Relaciones: relaciones, DER: desafío grupal.",
+        "tres": " - SQL: Introducción a DDL y DML- Queries SM: queries SM, queries SM - Universo Lector, desafío creación de Base de Datos - Salud DH; CRUD (Checkpoint 1): desafío grupal; Uso de DML - Queries ML: select, between y like, filtros, movies: ejercitación de SQL, limit y offset, alias, validemos lo aprendido, movies: ejercitaciópn SQL II; DML - Queries Agregadas: table reference, join, distinct, funciones de alteración, desafío adicional; DML - Queries XXL: ¿cuál es la respuesta adecuada?, casi de estudio: E-Market-Joins, caso de estudio: Sakila, tipos de joins: inner, left, right, validemos lo aprendido, desafío extra; DML - Queries XXL - Parte II: vitas.",
+        "cuatro": " - BUENAS PRÁCTICAS Y OPTIMIZACIÓN: Buenas Prácticas: bueaas prácticas y optimización, volver al futuro II - Sakila, buenas prácticas en SQL, orden de procesamiento de una query, ¿qué es un índice?; Strored Procedures: stored procedured, integración de instrucciones DDL y DML, desafío.",
+        "cinco": " - ORM: Base de Datos Desde el Back-End: ORM; Trabajando con BBDD: bases de datos desde el back-end."
+    },
+    "palabrasClave":{
+        "uno": "MySQL",
+        "dos": "Workbench"
+    }
+  },
+  {
+    "imgUrl": "img/programacionImperativa.png",
+    "nombre": "PROGRAMACIÓN IMPERATIVA",
+    "bimestre": "2° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": " - PENSAMIENTO COMPUTACIONAL: Pensando Como la Computadora: hacer un origami, paradígmas de programación - del símbolo al texto.",
+        "dos": " - PROGRAMACIÓN EN JAVASCRIPT: Variables, Tipos de Datos y Operadores: introducción, variables y tipos de datos, operadores; Trabajando con funciones: funciones regulares, arrow functions; Controlando el flujo de la aplicación: operadores lógicos, if/else, if ternario/switch; Cilos: Repetir...repetir...repetir: for loop, while/ do while; String y Arrays: Trabajando con Colecciones: introducción arrays, métodos arrays, métodos strings, métodos arrays y strings; Objetos Literales: objetos literales; Integración de Contenidos I y II; Parcial.",
+        "tres": "  - ALGORITMOS: Algoritmos de Iteración y Toma de Decisiones: intoducción al módulo 3, ejercitación; Matrices: ¿qué es una matriz?, doble for; Métodos de Ordenación: bubble sort, organizando el CodeSandbox, manos a la obra bubble sort; Exámen Final; Algoritmos de Búsqueda: algoritmos de búsqueda.",
+        "cuatro": " - CIERRE: Complejidad Computacional: contar instrucciones, complejidad computacional; Recursión: métodos de arrays."
+    },
+    "palabrasClave":{
+        "uno": "JavaScript",
+        "dos": "Node JS",
+        "tres": "VSCode"  ,
+        "cuatro":"CodeSandbox" 
+    }
+  },
+  {
+    "imgUrl": "img/oop.png",
+    "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+    "bimestre": "3° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "INTRODUCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS: ¿Qué es Java?: bienvenida, primer acercamiento a Java, primer programa, tipos de datos, estructura de control; Introducción a Java: String, Integer, Float, ingreso de datos, Sccaner, funciones, array; Objetos y UML: concepto de Objetos y Clases, Clases, atributos, responsabilidades y constructor, encapsulamiento (publico/privado), diagrama UML; Clases: implementación de clases en Java, proteger el encapsulamiento, instancia, la clase, variables y métodos de clase, conclusión.",
+        "dos": "PROGAMACIÓN ORIENTADA A OBJETOS EN JAVA: Relaciones Entre Clases: relaciones entre clases, representación en UML de relaciones, agregación, composición, implementación en Java, conclusión; Herencia en UML: relaciones entre clases, herencia, alcance, protected,, firma de un método, sobrecarga y sobreescritura; Herencia en Java: herencia, sobrecarga y sobreescritura, la clase object, ejémplo de código, conclusión; Clases Abstractas: concepto de clase abstracta, uso de clases abstractas en el diseño, métodos abstractos, polimfismo, diferencias con clases concretas, conclusión; Interfae: interface, concepto de interface (diferencia con herencia), implements (uso de interfaces), interface comparable, conclusión; Parcial; Colecciones: colecciones, iterator, métodos geneales, búsqueda y recorrer una colección, tipos en la definición de colecciones (genéiccos), ArrayList, Set, Hash; Manejo de Excepciones: introducción, excepciones, cear nuestrs propias excepciones.",
+        "tres": "PATRONES DE DISEÑO: Introducción a Patrones de Diseño: patrones, concepto de patrones de diseño, Singleton, Factory; Patrón State; Patrón Composite; Evauación Final; Patrón Observer; Patrón Strategy. "
+    },
+    "palabrasClave":{
+      "uno": "Java",
+      "dos": "Intellij-IDEA",
+      "tres": "draw.io"      
+    }
+  },
+  {
+    "imgUrl": "img/testing1.png",
+    "nombre": "TESTING 1",
+    "bimestre": "3° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "FUNDAMENTOS DE TESTING Y GESTIÓN DE DEFECTOS: Primeros Pasos: bienvenida, introducción al testing, el rol del Tester; Gestión de Defectos: defectos, gestión de defectos, actividad; .",
+        "dos": "DISEÑO E IMPLEMENTACIÓN DE LA PRUEBA: Diseño de la Prueba: diseño de la prueba, actividad; Niveles y Tipos de Prueba: nivles de prueba, tipos de prueba, clasificación; Técnicas de Pueba: técnicas de prueba, actividad; Implemntación y Ejecución de la Prueba: implementación de la prueba, actividad; Pruebas-Revisión.",
+        "tres": "ANÁLISIS Y PLANIFICACIÓN DE LA PRUEBA: Pruebas Estáticas y Dinámicas: pruebas estáticas y dinámicas, actividad.",
+        "cuatro": "PLANIFICACIÓN DE LA PRUEBA: Organización de la Pueba: planificación de la prueba, actividad; Evaluación I.",
+        "cinco": "UNIT TESTING: Introducción a JavaScript: javascript: guía de instalación, node js, repasando javascript; Debugging: debugging, introducción a Unit Testing; Prueba Componente: prueba componente; Test Unitario: test unitario, actividad",
+        "seis": "BE TESTING: Introducción - API Testing: introducción - API testing; API Testing: API testing",
+        "siete": "INTRODUCCIÓN A AUTOMATION: Fundamentos de Automaatización de la Prueba: fundamentos de automatización de la prueba: Automatización de la Prueba: automatización de la prueba; Evaluación II."
+    },
+    "palabrasClave":{
+      "uno": "JavaScript",
+      "dos": "Node JS",
+      "tres": "Junit",
+      "cuatro": "Jest",
+      "cinco": "VSCode",
+      "seis": "Postman",
+      "siete": "Selenuim IDE"     
+    }
+  },
+  {
+    "imgUrl": "img/frontend2.png",
+    "nombre": "FRONTEND 2",
+    "bimestre": "4° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "BIENVENIDA E INTRODUCCIÓN A JAVASCRIPT FRONT: Bienvenida: intoducción, desarrollo, buenas prácticas; Introducción a javasccript front: intoducción, desarrollo, buenas prácticas.",
+        "dos": "MANIPULACIÓN DEL DOM: Introdución al DOM: el objeto window y document, seleccionando elementos, buenas prácticas; Modificar Elementos con JavaScript: introducción, desarrollo, modificando estilos, modificando clases; Trabajando con Nodos: introdución, elementos y atributos dinámicos.",
+        "tres": " WEB REACTIVA: Eventos: introducción, desarrollo, buenas prácticas, invocando funciones, palabras reservadas: ¿cómo declarar una variable.",
+        "cuatro": "VALIDACIÓN DEL LADO DEL CLIENTE: Primer Entregable; Formularios I: estructura de un formulario, obteniendo datos de un formulario, normalizando datos: métodos de strings; Formularios II: ¿Cómo validar?: introducción, desarrollo, buenas prácticas; JSON y Storage: : introducción, desarrollo, buenas prácticas.",
+        "cinco": "ASINCRONISMO Y APIs: Introducción a Asincronismo: AJAX, request y response, introducción a HTTP; APIs I: ¿qué es una API?, REST, AJAX fetch - get, try, catch y finally; APIs II: AJAX fecth - post; To-Do App: Docs; To-Do App: Workflow.",
+        "seis": "IMPLEMENTACIÓN PRÁCTICA, ANIMACIONES Y LIBRERÍAS: Evaluación Final; To-Do App: UX Mejorada: agregando animaciones; Librerías."
+    },
+    "palabrasClave":{
+      "uno": "JavaScript",
+      "dos": "Node JS",
+      "tres": "HTML",
+      "cuatro": "CSS",
+      "cinco": "VSCode"
+    }
+  },
+  {
+    "imgUrl": "img/infraestructura1.png",
+    "nombre": "INFRAESCTRUCTURA 1",
+    "bimestre": "4° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "INMERSIÓN: Introducción a la Mateia & The Big Picture: bienvenida, introducción a la materia, el centro de cómputos, the big picture.",
+        "dos": "AUTOMATIZACIÓN: Automatización: automatización de la infraestructura, virtualización; Shell Scripting - Parte 1: introducción a la teminal de linux, comandos útiles; Shell Scripting - Parte 2: scripting, nos ponemos a practicar; PowerShell: introducción a powershell, nos ponemos a practicar; Python: introducción a python, nos ponemos a practicar; Configuration Management - Ansible: configuration management, conociendo Ansible, ansible en acción. Evaluación.",
+        "tres": "CONTAINERS: Docker en Profundidad: docker en profundidad, nos ponemos a pacticar; El Ecosistema Docker y Mejores Prácticas.",
+        "cuatro": "CLOUD COMPUTING: Cloud Computing, Una Mirada Holística e Integradora; Computación en la Nube; Cloud Computing: Redes (VPL + ELB): concepto de red de VPC, concepto de elasticidad vs escalabilidad, AWS VPC; Armamos un Pequeño Ambiente en AWS: ¿qué es un Load Balancer y para qué sirve?; Almacenamiento en la Nube; Evaluación Final: base de datos como servicio, RDS, dynamoDB; Base de Datos en la Nube."
+    },
+    "palabrasClave":{
+      "uno": "Virtual Box",
+      "dos": "Vagrant",
+      "tres": "Linux",
+      "cuatro": "Bash",
+      "cinco": "Python",
+      "seis": "PowerShell",
+      "siete": "Docker",
+      "ocho": "Virtual Box",
+      "nueve": "AWS"
+    }
+  },
+  {
+    "imgUrl": "img/backend1.png",
+    "nombre": "BACKEND 1",
+    "bimestre": "5° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "PATRONES DE DISEÑO: Bienvenida: ¿qué es backend?, introducción, test unitarios, ¿qué es JUnit?, validemos lo aprendido; Patrón Template Method; Patrón Cadena de Responsabilidad; Patrón Proxy; Patrón Flyweight; Patrón Facade.",
+        "dos": "LOGGING Y ACCESO DE DATOS: Logging (trazas y debug): ¿qué es logueo?, arquitectura log4j, conclusión; Acceso a Base de Datos: introducción, jdbc, h2 database, conclusión, trabajo integrador; Consulta y Transacciones Sobre Base de Datos; Patrón DAO (Data Access Object); Talle de Coding; Maven",
+        "tres": "FRAMEWORK PARA EL DESARROLLO ÁGIL DE APLICACIONES: Introduccción a Spring Boot: repasemos, protocolo HTTP, framework, spring & spring boot, conclusión; Patrón MVC (Model View Controller): introducción, MVC, spring MVC y spring boot MVC, conclusión, trabajo integrador; Taller de Coding Sobre el Trabajo Integrador: Thymeleaf; API Rest: introducción, json, anotaciones en el controller, diseño de capas web API, postman, conclusión; API Rest II: introducción, data transfer object (DTO), ResponseEntity, conclusión; Consumir APIs: consumir API desde la vista, consumir API desde el backend; Inyección de Dependencias: estructura de un proyecto, introducción a inyección de dependencias, inyección de dependencias, repaso, conclusión; ORM: capa de datos, mapeo objeto-relacional (ORM), JPA.hibernate, conclusión; Sspring Data - Hibernate: mapeo de relaciones, join column, cascading y fetch type, conclusión; HQL: ¿qué es HQL?, sintaxis de HQL, conclusión, trabajo integrados; Taller de Coding Aplicando lo aprendido hasta el momento; Base de Datos No Relaionales: MongoDB: introducción, introdución a mongoDB, mongoDB con spring, conclusión; Sistemas Distribuidos: microsevicios, tipos de comunicación ente microservicios; Manejo de Excepciones: repaso de excepciones en java, manejo de excepciones en java con spring boot, conclusión; Seguridad: autenticación y autorización, incorporando login y seguridad a las páginas, conclusión, trabajo integrador; Autenticación de APIs basada en tokens JWT, autenticación de APIs basada en tokens con spring y JWT, API para generar y validar tokens con JWT, login con JWT, conclusión; Pruebas de Integración: introducción, pruebas unitarias vs pruebas de integración, pruebas de integración con spring boot, conclusión; Tallet de Coding y  Entrega; Documentación: swagger, wagger con spring boot, conclusión; Despliegue de APIs en Docker: introducción, proceso de despliegue, conclusión; Taller de Coding Sobre Pruebas de Integración."
+    },
+    "palabrasClave":{
+      "uno": "Java",
+      "dos": "JUnit",
+      "tres": "Log4j",
+      "cuatro": "JDBC",
+      "cinco": "H2",
+      "seis": "Maven",
+      "siete": "Spring Boot",
+      "ocho": "Postman",
+      "nueve": "MongoDB",
+      "diez": "Intellij"
+    }
+  }
+  ]

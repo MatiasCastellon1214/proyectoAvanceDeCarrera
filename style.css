@@ -1,0 +1,267 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Tu CSS existente aquí */
+
+.progress {
+  display: flex;
+  border: #344c2d 4px solid;
+  height: 30px;
+  border-radius: 15px;
+
+  /*border: black 0.5px solid;*/
+  overflow: hidden;
+  margin-top: 20px;
+  font-family: "Kanit", sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.progress-bar {
+  line-height: 30px;
+  font-weight: bold;
+  background: linear-gradient(315deg, #344c2d, #344c2d);
+  color: #ffffff;
+}
+
+.progress-bar:hover {
+  color: #344c2d;
+  background: linear-gradient(315deg, #9aca8d, #9aca8d);
+  border: #9aca8d 4px solid;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  border-radius: 14px;
+  background: linear-gradient(315deg, #9aca8d, #45972c);
+  /*box-shadow:  6px 6px 2px #669759,
+             -6px -6px 2px #80bd6f;*/
+}
+
+#materias-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.modal-dialog{
+  max-width: none;
+}
+
+.text-center {
+  border: 0.5px #9aca8d solid;
+  border-radius: 10px;
+  background-color: #344c2d;
+  color: antiquewhite;
+  background: #344c2d;
+  box-shadow: 0px 0px 0px #344c2d, 4px 4px 0px #366228;
+}
+
+.caja {
+  text-align: center;
+  border: 0.5px #9aca8d solid;
+  padding: 1rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  transition: box-shadow 0.5s;
+  background: linear-gradient(315deg, #9aca8d, #5f984d);
+  box-shadow: 0px 0px 0px #344c2d, 4px 4px 0px #366228;
+  min-height: 300px;
+}
+
+.caja:hover {
+  color: antiquewhite;
+  background: #344c2d;
+}
+
+.nombre {
+  font-family: "Kanit", sans-serif;
+  font-size: 1.4rem;
+  width: 100%;
+  overflow-wrap: break-word;
+  /*margin: 0.5rem 0;*/
+}
+.bimestre {
+  font-family: "Kanit", sans-serif;
+  font-size: 1rem;
+  /*margin: 0rem 0 0.5rem 0;*/
+}
+
+.caja img {
+  width: 50%;
+  max-width: 50%;
+  height: 100%;
+}
+
+.modal-content {
+  background-color: #f0d5a3;
+  margin: 0px;
+  padding: 20px;
+  border: 4px solid #523a04;
+  width: 80%;
+}
+
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#modal-title{
+
+  /*font-size: 3vw;*/
+  color: #523a04;
+  text-align: center;
+  max-width: 100%;
+  overflow-wrap: break-word;
+
+}
+
+#modal-modules{
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+
+
+#modulo-title{
+  /*font-size: 2vw;*/
+  color: #523a04;
+  text-align:justify;
+}
+
+.keyword-container {
+  display: flex;
+  align-items: center;
+  color: #523a04;
+  font-size: 1rem;
+}
+
+#keyword-title{
+  color: #523a04;
+  font-size: 1rem;
+}
+
+
+.palabras-clave {
+  margin-right: 10px;
+  color: #523a04;
+  font-size: 1.2rem;
+}
+
+.keyword {
+  margin-right: 5px;
+}
+
+
+
+.plan-estudios{
+  font-size: 1.2rem;
+  color: #523a04;
+  text-align: center;
+}
+
+
+.carrera-p{
+  border: 4px solid #523a04;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  color: #523a04;
+  text-align: justify;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  transition: box-shadow 0.5s;
+  background: #f0d5a3;
+  min-height: 300px;
+}
+
+.ctd{
+  color: #523a04;
+  background: #f0d5a3;
+  border: 4px solid #523a04;
+  box-shadow: none;
+}
+
+li{
+  text-align: justify;
+}
+
+.navbar{
+  border: 4px solid #523a04;
+  padding: 0px;
+  
+}
+
+
+.container-fluid{
+  background-color: #f0d5a3;
+  font-size: 1.2rem;
+  color: #523a04;
+  font-weight: bold;
+}
+
+
+.sobreMi-p{
+  border: 4px solid #523a04;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  color: #523a04;
+  text-align: justify;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  transition: box-shadow 0.5s;
+  background: #f0d5a3;
+  min-height: 300px;
+}
+
+.img-fluid{
+  border: 4px solid #523a04;
+}
+
+.info,
+p{
+  text-align: left;
+}
+
+.btn{
+  color: #f0d5a3;
+  background-color: #523a04;
+  font-style: none;
+}
+
+.btn:hover{
+  color: #523a04;
+}
+
+#footer-section{
+  background-color: #f0d5a3;
+  border: 4px solid #523a04;
+}
+
+.modal-content {
+  overflow-y: auto;
+}
