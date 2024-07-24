@@ -5,14 +5,13 @@ const sobreMiContent = `
       <a href="https://www.linkedin.com/in/matías-castellón-54ab03252" target="_blank"><img src="img/perfil.jpg" alt="Imagen de perfil" class="img-fluid" style="max-width: 150px;"></a>
     </div>-->
     <div class="info">
+      <p>Carrera de Tecnicatura:<strong> Certified Tech Developer.</strong></p>
       <p class="mt-3">Carrera de grado: <strong>Licenciado en Ciencias Biológicas</strong></p>
-      <p>Trabajo actual: <strong>Becario doctoral CONICET</strong></p>
-      <p>Estudiante:<strong> Certified Tech Developer.</strong></p>
-      <!-- Enlaces a CV, trabajos publicados, etc. -->
+      <p>Trabajo actual: <strong>Becario Doctoral de Investigación Científica en CONICET</strong></p>      
       
     </div>
     <div class="icon-links d-flex flex-column gap-4">
-        <a href="https://drive.google.com/file/d/1rs8IEJDRrcHnAg-WbP7ihO_9ntriWqs3/view?usp=drive_link" class="me-3" target="_blank"">
+        <a href="https://drive.google.com/file/d/188xNS5678Ngryj0DAWKH4G72aoIS9xgQ/view?usp=sharing" class="me-3" target="_blank"">
             <button class="btn w-100">
                 <i class="fas fa-file-alt"> CV - Resumido</i>
             </button>

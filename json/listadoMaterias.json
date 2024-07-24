@@ -173,7 +173,7 @@
     "githubLink":"",
     "modulos":{
         "uno": "PATRONES DE DISEÑO: Bienvenida: ¿qué es backend?, introducción, test unitarios, ¿qué es JUnit?, validemos lo aprendido; Patrón Template Method; Patrón Cadena de Responsabilidad; Patrón Proxy; Patrón Flyweight; Patrón Facade.",
-        "dos": "LOGGING Y ACCESO DE DATOS: Logging (trazas y debug): ¿qué es logueo?, arquitectura log4j, conclusión; Acceso a Base de Datos: introducción, jdbc, h2 database, conclusión, trabajo integrador; Consulta y Transacciones Sobre Base de Datos; Patrón DAO (Data Access Object); Talle de Coding; Maven",
+        "dos": "LOGGING Y ACCESO DE DATOS: Logging (trazas y debug): ¿qué es logueo?, arquitectura log4j, conclusión; Acceso a Base de Datos: introducción, jdbc, h2 database, conclusión, trabajo integrador; Consulta y Transacciones Sobre Base de Datos; Patrón DAO (Data Access Object); Talle de Coding; Maven.",
         "tres": "FRAMEWORK PARA EL DESARROLLO ÁGIL DE APLICACIONES: Introduccción a Spring Boot: repasemos, protocolo HTTP, framework, spring & spring boot, conclusión; Patrón MVC (Model View Controller): introducción, MVC, spring MVC y spring boot MVC, conclusión, trabajo integrador; Taller de Coding Sobre el Trabajo Integrador: Thymeleaf; API Rest: introducción, json, anotaciones en el controller, diseño de capas web API, postman, conclusión; API Rest II: introducción, data transfer object (DTO), ResponseEntity, conclusión; Consumir APIs: consumir API desde la vista, consumir API desde el backend; Inyección de Dependencias: estructura de un proyecto, introducción a inyección de dependencias, inyección de dependencias, repaso, conclusión; ORM: capa de datos, mapeo objeto-relacional (ORM), JPA.hibernate, conclusión; Sspring Data - Hibernate: mapeo de relaciones, join column, cascading y fetch type, conclusión; HQL: ¿qué es HQL?, sintaxis de HQL, conclusión, trabajo integrados; Taller de Coding Aplicando lo aprendido hasta el momento; Base de Datos No Relaionales: MongoDB: introducción, introdución a mongoDB, mongoDB con spring, conclusión; Sistemas Distribuidos: microsevicios, tipos de comunicación ente microservicios; Manejo de Excepciones: repaso de excepciones en java, manejo de excepciones en java con spring boot, conclusión; Seguridad: autenticación y autorización, incorporando login y seguridad a las páginas, conclusión, trabajo integrador; Autenticación de APIs basada en tokens JWT, autenticación de APIs basada en tokens con spring y JWT, API para generar y validar tokens con JWT, login con JWT, conclusión; Pruebas de Integración: introducción, pruebas unitarias vs pruebas de integración, pruebas de integración con spring boot, conclusión; Tallet de Coding y  Entrega; Documentación: swagger, wagger con spring boot, conclusión; Despliegue de APIs en Docker: introducción, proceso de despliegue, conclusión; Taller de Coding Sobre Pruebas de Integración."
     },
     "palabrasClave":{
@@ -188,5 +188,78 @@
       "nueve": "MongoDB",
       "diez": "Intellij"
     }
+  },
+  {
+    "imgUrl": "img/frontend3.png",
+    "nombre": "FRONTEND 3",
+    "bimestre": "6° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "PRIMEROS PASOS EN REACT: De JavaScript Vanilla a React: bienvenida: ¿qué es backend?, Intro a React, Set de herramientas para trabajar con React, agregando React a una página ya existente, ¿Qué aprendimos hoy?; Herramientas y Primer Proyecto: integración de JSX en React, Create-react-app y ViteJS, React Developer Tools, Hello React, ¿Qué aprendimos hoy?.",
+        "dos": "COMPONETIZACIÓN EN REACT: Pensando en React: bienvenida, ¿Qué es un componente?, reutilización de componentes, ¿Qué son las props?, prop-children + fragment, ¿Qué aprendimos hoy?; Trabajando con Componentes: bienvenida, concepto de inmutabilidad, prop-key + map(), estilos en React, ¿Qué aprendimos hoy?.",
+        "tres": "CONOCIENDO LOS HOOKS EN REACT: Hooks: bienvenida, intro a Hooks, Hook: useState(), state vs setState(), ¿Qué aprendimos hoy?; Eventos y Formularios: eventos en React, formularios en React, recordemos validaciones, ¿Qué aprendimos hoy?; Repaso General; Primera Evaluación.",
+        "cuatro": "CICLO DE VIDA DE LOS COMPONENTES: Ciclo de Vida: bienvenida, ciclo de vida en React, useEffect, ¡Comparamos!, ¿Qué aprendimos hoy?; Peticiones asíncronas en React: peticiones asíncronas en React, useCallback() y useMemo(), ¿Qué aprendimos hoy?.",
+        "cinco": "NAVEGACIÓN Y TESTING EN REACT: React Router: bienvenida, set-up inicial, rutas anidadas, rutas parametrizadas, history API, ¿Qué aprendimos hoy?; Intro a Testing en React: bienvenida, ¡Revisamos!, Jest, React Testing Library, ¿Qué aprendimos hoy?.",
+        "seis": "MANEJO DE ESTADO GLOBAL: Estado Global: bienvenida, estados globales en React, provider, consumer y useContext(), ¿Qué aprendimos hoy?; Estado Global con Storage: bienvenida, localStorage y sessionStorage, Hook: useReducer(), useReducer + useContext, ¿Qué aprendimos hoy?; Evaluación Final - Presentación; Custom Hooks: bienvenida, Hooks personalizados, ejemplos de Hooks personalizados, ¿Qué aprendimos hoy?.",
+        "siete": "HERRAMIENTAS: Más utilizades en React: bienvenida, manejo de errores, Error Boundary, notificaciones, ¿Qué aprendimos hoy?; La Importancia del Testing: bienvenida, TDD: Test-Driven development, testing sincrónico vs testing asincrónico, ¿Qué aprendimos hoy?."
+    },
+    "palabrasClave":{
+      "uno": "React",
+      "dos": "JavaScript",
+      "tres": "Vite",
+      "cuatro": "GitHub",
+      "cinco": "Jest"      
+    }
+  },
+  {
+    "imgUrl": "img/infraestructura2.png",
+    "nombre": "INFRAESCTRUCTURA 2",
+    "bimestre": "6° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "INMERSIÓN: Bienvenidos a Infraestructura II: bienvenida: ejes de la materia, conexión con otras materias, instructivo para usar AWS; ¿Que es DevOps?: introducción a DevOps, herramientas de DevOps, perfiles en el ecosistema DevOps, expectativas en el ecosistema DevOps.",
+        "dos": "INFRAESTRUCTURA COMO CÓDIGO: Infraestructura Como Código: La Disciplina: infraestructura como código: el concepto, antes de la infraestructura como código, dos paradigmas para la infraestructura como código, ecosistema de herramientas IaC; Infraestructura Como Código en AWS: CloudFor: ¿de qué se trata?, ¿cómo usarla?, ¿donde la usamos?, ¿quién la usa?, ¿Hora de practicar!; Infraestructura Como Código: Ansible: ¿de qué se trata?, ¿cómo usarla?, ¿donde la usamos?, ¿quién la usa?, ¿Hora de practicar!; Infraestructura Como Código: Terraform: ¿de qué se trata?, ¿cómo usarla?, ¿donde la usamos?, ¿quién la usa?, ¿Hora de practicar!; Infraestructura Como Código: Terraform: los plugins de Terraform: providers y provisioners, domain specific languaje, ¿Hora de practicar!, bonus track; Exámen Parcial.",
+        "tres": "PIPELINES: Introducción al Mundo de los Pipelines: pipelines ¿qué son y para qué sirven?, ¿qué tecnologias existen?, Gitlab; Pipelines: Build y Continuous Integration: ¿qué es el proceso de build y qué incluimos en él?, continuous integration, ¿qué es un artefacto?, principio de inmutabilidad; Pipelines: Release y Continuous Delivery: el proceso de release, continuous delivery y continuous deployment; Pipelines: End-To-End: pipelines: CI/CD, combinamos deployments, ¿cómo hacer un pipeline de CI/CD exisoto?.",
+        "cuatro": "MONITOREO: Monitoreo: Introducción: ¿qué significa monitorear?, ¿qué buscamos al monitorear?, monitorear infraestructura/monitorear aplicaciones, la importancia de las métricas; Monitoreo: Monitoreando Infraestructura: monitorear infraestructura, autoescalado y elasticidad, ¡A practicar!; Monitoreo: Monitoreando aplicaciones: monitorear aplicaciones, ¿qué miramos cuando monitoreamos aplicaciones?, utilizar CloudWatch para monitorear aplicaciones; Exámen Final.",
+        "cinco": "CIERRE DE LA MATERIA: Armemos Un Pipeline: ¿qué vamos a hacer?, set-up + GitLab, ¡A practicar!; Otros Conceptos de Infraestructura Moderna: ¿qué vamos a hacer?, ¡A practicar!."
+    },
+    "palabrasClave":{
+      "uno": "AWS",
+      "dos": "AWS EC2",
+      "tres": "AWS S3",
+      "cuatro": "AWS VPC",
+      "cinco": "AWS CloudWatch",
+      "seis": "AWS IAM",
+      "siete": "Ansible", 
+      "ocho": "Terraform",
+      "nueve": "GitLab",
+      "diez": "Docker"
+    }
+  },
+  {
+    "imgUrl": "img/logo2.png",
+    "nombre": "PROYECTO INTEGRADOR",
+    "bimestre": "7° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+        "uno": "Desarrollo de una aplicación web e-commerce utilizando React y JavaScript para las interacciones y/o validaciones del lado del cliente. En el diseño y desarrollo del FrontEnd se emplearon buenas prácticas para crear sitios responsive. El BackEnd y la API RESTful fue desarrollado en Java, utilizando Spring Boot como framework y empleando buenas prácticas del patrón de diseño MVC. Diseño y organización de datos relacionales utilizando UML, interactuando con PostgreSQL. El proyecto se desarrolló siguiendo los lineamientos de Metodologías Ágiles (Scrum), y se gestionó utilizando Git para el control de versiones en un repositorio privado, facilitando el trabajo colaborativo y organizado."
+    },
+    "palabrasClave":{
+      "uno": "JavaScript",
+      "dos": "React",
+      "tres": "Java",
+      "cuatro": "Spring Boot",
+      "cinco": "Spring Security",
+      "seis": "Taildwind",
+      "siete": "Docker", 
+      "ocho": "Git",
+      "nueve": "GitHub",
+      "diez": "AWS S3",
+      "once": "PostgreSQL"
+    },
+    "url": "https://dh.jackmoon.dev/"
   }
   ]

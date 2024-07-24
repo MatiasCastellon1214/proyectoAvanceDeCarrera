@@ -76,6 +76,21 @@
     "tres": "Figma Pro",
     "cuatro": "Pruebas de Usabilidad"
   } 
+},
+{
+  "imgUrl": "img/teamworkAndCollaboration.png",
+  "nombre": "TEAM WORK AND COLLABORATION",
+  "bimestre": "6° bimestre",
+  "descripcion":"",
+  "githubLink":"",
+  "modulos":{
+    "uno": "TEAM WORK AND COLLABORATION: Agilidad Emocional - Autoliderazgo y Gestión del Conflicto: definición inicial, agilidad emocional, inteligencia emocional; El Camino de la Colaboración: gestión emocional de los conflictos, gestión del conflicto - Modelo SCI, inteligencia emocional; Integración y Cierre: Actividad Entregable."
+  },
+  "palabrasClave":{
+    "uno": "Test de Kilman",
+    "dos": "Soft Skills",
+    "tres": "Tranajo en Equipo"
+  } 
 }
 
 ]

@@ -20,6 +20,8 @@ fetch("json/listadoMaterias.json")
           <img src="${materia.imgUrl}" alt="${materia.nombre}">
           <h3 class="nombre">${materia.nombre}</h3>
           <p class="bimestre"> ${materia.bimestre}</p>
+          ${materia.url ? `<div><a href="${materia.url}" target="_blank" class="text-muted"><i class="fa-solid fa-link"></i></a> <a href="https://github.com/1774-ProyectoIntegrador/" target="_blank" class="text-muted"><i class="fa-brands fa-github"></i></a></div>` : ""}
+          
         </article>
       
       `;
@@ -112,12 +114,7 @@ function openModal(nombre, bimestre, descripcion, githubLink, modulos, palabrasC
 
   modal.style.display = "block";
   modalTitle.textContent = nombre;
-  //modalDescription.textContent = descripcion;
 
-  // Crear enlaces a proyectos en GitHub como iconos
- // modalLinks.innerHTML = `<a href="${githubLink}" target="_blank"><i class="fab fa-github"></i></a>`;
-  
-  // ...otros enlaces si los necesitas...
 
   // Mostrar los módulos
 
@@ -145,10 +142,15 @@ function openModal(nombre, bimestre, descripcion, githubLink, modulos, palabrasC
       }</span>`;
     });
     keywordsHTML += '</div>'
+  
     modalKeywords.innerHTML = keywordsHTML;
   } else {
     modalKeywords.innerHTML = "";
   }
+
+
+  
+
   // Cerrar el modal al hacer clic en la 'x'
   const closeModal = document.querySelector(".close");
   closeModal.addEventListener("click", () => {
