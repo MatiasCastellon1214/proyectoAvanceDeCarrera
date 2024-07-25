@@ -1,0 +1,96 @@
+[
+    {
+        "imgUrl": "img/metodologiaDeTrabajo.png",
+        "name": "WORK METHODOLOGY",
+        "semester": "1st Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+            "one": " - LEARNING AGILITY: Learning Agility - Introduction; The 5 Factors of Learning Agility: introduction to the concept of learning agility, TED talks, alternative learning spaces; Integration and Closure.",
+            "two": " - AGILE DIGITAL PRODUCTS: Introduction to Lean, Lean philosophy, what is Lean Startup?, introduction to Kanban, what is Kanban?, Kanban values and principles, Scrum: introduction to Scrum, Scrum roles and responsibilities, Scrum artifacts, Scrum events, the new Scrum guide; Product Vision: product vision, putting product vision into practice, agile inception, minimum viable product.",
+            "three": " - AGILITY IN MOVEMENT: from requirements to user stories, backlog prioritization, story refinement, acceptance criteria; Product Roadmap: agile metrics, user story mapping, roadmap and release plan; Agile Metrics: agile architecture, estimation and capacity, Kanban metrics, Scrum metrics; Agile Development: agile development, introduction to testing, white-box and black-box testing, TDD; Final Stretch."
+        },
+        "keywords": {
+            "one": "Lean",
+            "two": "Kanban",
+            "three": "Scrum",
+            "four": "User Story"
+        }
+    },
+    {
+        "imgUrl": "img/learningAgility.png",
+        "name": "LEARNING AGILITY",
+        "semester": "2nd Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+          "one": " - LEARNING AGILITY: Learning Agility - Introduction; The 5 Factors of Learning Agility: introduction to the concept of learning agility, TED talks, alternative learning spaces; Integration and Closure."
+        },
+        "keywords": {
+          "one": "Learning Agility"
+        }
+      },
+      {
+        "imgUrl": "img/designThinking.png",
+        "name": "DESIGN THINKING",
+        "semester": "3rd Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+          "one": " - INTRODUCTION TO DESIGN THINKING: Design is Thinking Turned into a Tool: welcome, what is design thinking?, pillars of design thinking, DT as a scientific method; Design Thinking: A Cross-Sectional View: different models of design thinking, the phases of design thinking, about the final integrative project.",
+          "two": " - EMPATHIZE: Getting to Know the Users: Context: empathize: introduction, quantitative methods, qualitative methods, research strategies, actor map, the importance of empathizing; Getting to Know the Users: Research: qualitative methods, existing data, tools for empathizing; Getting to Know the Users: Defining Persona: what is clustering?, proto-persona, what is the difference between archetype-stereotype and persona-target?, getting to know the users: defining personas.",
+          "three": " - DEFINE AND IDEATE: Focusing on the Problem: define, how might we?, customer journey map, pain points; Focusing on the Solution: creativity and design thinking, ideation rules and tools, solution context, prioritization and feasibility, value proposition canvas; Focusing on the Solution."
+        },
+        "keywords": {
+          "one": "Actor Map",
+          "two": "Journey Map"
+        }
+      },
+      {
+        "imgUrl": "img/comunicacionEfectiva.png",
+        "name": "EFFECTIVE COMMUNICATION",
+        "semester": "4th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+          "one": " - EFFECTIVE COMMUNICATION: Communication - Welcome - Introduction: mental models, complementary material; Conversational Spaces and Types of Conversations: introduction, effective presentations, designing conversations, types of language; Integration and Closure: toolbox."
+        },
+        "keywords": {
+          "one": "Conversations",
+          "two": "Languages"
+        }
+      },
+      {
+        "imgUrl": "img/uxui.png",
+        "name": "UX/UI",
+        "semester": "5th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+          "one": " - INTRODUCTION TO UX DESIGN: UX Design: Hello, Personas!: welcome, is UX/UI design the same?, design thinking & UX design, integrative practical work; Research and Ideation: brief: introduction, convergence and divergence: a tool for thinking ideas, Spoiler! Introduction to interaction design.",
+          "two": " - DESIGN AND INTERACTION: Information Architecture: information architecture, content prototype, user flow; Prototyping: UX writing, prototyping, hello, Figma; Design Patterns: integrative practical work: first report to dregg, what are design patterns?, patterns in apps, patterns in websites; Visual Design Fundamentals: visual design, designing accessible experiences, designing accessibility, moodboard, hand off; Usability, The Moment of Truth: evaluate and validate, usability, usability testing; User Testing: the moment of truth, evaluation and validation methods, measurement tools; Feedback and Closure: narrative for design projects, how to tell a story that people remember?, UX feat. Pixar, feedback, prototypes in action."
+        },
+        "keywords": {
+          "one": "User Flow",
+          "two": "Design Patterns",
+          "three": "Figma Pro",
+          "four": "Usability Testing"
+        }
+      },
+      {
+        "imgUrl": "img/teamworkAndCollaboration.png",
+        "nombre": "TEAM WORK AND COLLABORATION",
+        "bimestre": "6° bimestre",
+        "descripcion":"",
+        "githubLink":"",
+        "modulos":{
+          "uno": " - TEAM WORK AND COLLABORATION: Agilidad Emocional - Autoliderazgo y Gestión del Conflicto: definición inicial, agilidad emocional, inteligencia emocional; El Camino de la Colaboración: gestión emocional de los conflictos, gestión del conflicto - Modelo SCI, inteligencia emocional; Integración y Cierre: Actividad Entregable."
+        },
+        "palabrasClave":{
+          "uno": "Test de Kilman",
+          "dos": "Soft Skills",
+          "tres": "Tranajo en Equipo"
+        } 
+      }                        
+    
+]

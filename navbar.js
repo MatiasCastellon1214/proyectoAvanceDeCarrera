@@ -1,6 +1,6 @@
 const navbarContent = `
     <div class="container-fluid">
-        <a class="navbar-brand d-none d-sm-block" href="https://www.linkedin.com/in/matías-castellón-54ab03252" target="_blank">Matías Castellón - CTD</a>
+        <a class="navbar-brand d-none d-sm-block" href="https://www.linkedin.com/in/matías-castellón-54ab03252" target="_blank">MJC - CTD</a>
             <span class="navbar-text d-sm-none">MJC - CTD</span>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -10,9 +10,9 @@ const navbarContent = `
                 <li class="nav-item">
                     <a class="nav-link" href="#" id="carrera">Carrera</a>
                 </li>
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a class="nav-link" href="#" id="sobre-mi">Sobre mí</a>
-                </li>
+                </li>-->
                 <li class="nav-item">
                     <a class="nav-link" href="#" id="contacto">Contacto</a>
                 </li>
@@ -43,7 +43,7 @@ carreraLink.addEventListener('click', function(event) {
     behavior: 'smooth'
   });
 });
-
+/*
 const sobreMiLink = document.getElementById('sobre-mi');
 
 sobreMiLink.addEventListener('click', function(event){
@@ -57,7 +57,7 @@ sobreMiLink.addEventListener('click', function(event){
     behavior: 'smooth'
   });
 });
-
+*/
 const footerLink = document.getElementById('contacto');
 
 footerLink.addEventListener('click', function(event){

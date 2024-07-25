@@ -1,0 +1,267 @@
+[
+    {
+        "imgUrl": "img/introInfomatica.png",
+        "name": "INTRODUCTION TO COMPUTER SCIENCE",
+        "semester": "1st Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - IMMERSION: Introduction: introduction to the history of computer science; User Interface-Terminal (CLI): installing VSCode and Git Bash, the terminal, navigating through folders; Git: introduction to Git, installing Git, creating our first local repository, adding files to the repository, committing files; GitHub: GitHub, connecting our first local repository, uploading files, downloading files, resolving conflicts, branching on GitHub.",
+            "two": " - HARDWARE AND SOFTWARE: Computer Structure and Technology: the Big Picture, who thinks?, Von Neumann architecture, GPU vs CPU; Memory: introduction to memories, units of measure, primary memory, secondary memory; Operating Systems: operating systems, the computing center, installing virtual machines, if you want to know more....",
+            "three": " - WORK TOOLS: Programming Languages and Paradigms: programming languages, programming paradigms, language ecosystems, remote desktops, virtual machines.",
+            "four": " - SURFING THE INTERNET: Networks: networks and classification, introduction to data transmission media, internet speeds, setting up my own home network; Internet Protocols (Initial) I: how does the internet work?, the famous IP address; Internet Protocols (Intermediate) II: OSI model, addressing; Internet Protocols (Advanced) III: networks and fragmentation, external addressing.",
+            "five": " - AVOIDING SHIPWRECK: Computer Threats: introduction to the module, types of computer threats, information protection; Computer Security: basic security components, protection measures, physical and logical security, internet security."
+        },
+        "keywords":{
+            "one": "Git",
+            "two": "GitHub",
+            "three": "VSCode",
+            "four": "VirtualBox",
+            "five": "Git Bash"
+        }
+    },
+    {
+        "imgUrl": "img/frontend1.png",
+        "name": "FRONTEND 1",
+        "semester": "1st Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - USE OF TOOLS: What is a front end developer?, client-server architecture, difference between web and internet; Use of Tools: front end developer tools, wireframes, introduction to Figma, VSCode and folders, folder structure, browsers and devices.",
+            "two": " - INTRODUCTION TO STRUCTURES AND STYLES: Introduction to Markup Language: introduction to HTML, tags and attributes, semantic tags, inline and block elements; Tags: lists, text tags, paths, hyperlinks and images, accessibility, GitHub pages; Introduction to CSS Styling Language: introduction to CSS, fonts, colors, property inspector, best practices; CSS Properties: backgrounds, generic fonts, web and local fonts, icons; Box Model: box model, positions, Z-index positions.",
+            "three": " - ADVANCED STRUCTURE: Flexboxes: introduction, axes, basic structure, items; Responsive Design: viewports, relative measures, media queries; Forms: forms in HTML, radio buttons and checkboxes, advanced forms, accessible forms.",
+            "four": " - ADVANCED STYLES: Pseudoselectors: pseudoselectors; CSS Animations: introduction to animations, transform, keyframes, transition; Final Evaluation"
+        },
+        "keywords":{
+            "one": "HTML",
+            "two": "CSS",
+            "three": "SCSS",
+            "four": "Bootstrap",
+            "five": "VSCode",
+            "six": "Figma"
+        }
+    },
+    {
+        "imgUrl": "img/baseDeDatos1.png",
+        "name": "DATABASE 1",
+        "semester": "2nd Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - INTRODUCTION TO DATABASES: Hello, World!, why databases?, what tools will we use?; Introduction to Databases: what is a database?, databases vs flat files, database engines, database model;",
+            "two": " - DATABASE MODELING: Entities: database model, entities and attributes, case study: UBER, towards the synchronous meeting: entity definition challenge; Data: data types, data types glossary, let's validate what we have learned; Relationships: relationships, ERD: group challenge.",
+            "three": " - SQL: Introduction to DDL and DML - SM Queries: SM queries, SM queries - Reading Universe, database creation challenge - DH Health; CRUD (Checkpoint 1): group challenge; Use of DML - ML Queries: select, between and like, filters, movies: SQL exercises, limit and offset, alias, let's validate what we have learned, movies: SQL exercises II; DML - Aggregate Queries: table reference, join, distinct, alteration functions, additional challenge; DML - XXL Queries: what is the correct answer?, case study: E-Market-Joins, case study: Sakila, types of joins: inner, left, right, let's validate what we have learned, extra challenge; DML - XXL Queries - Part II: views.",
+            "four": " - BEST PRACTICES AND OPTIMIZATION: Best Practices: best practices and optimization, back to the future II - Sakila, best practices in SQL, query processing order, what is an index?; Stored Procedures: stored procedures, integrating DDL and DML instructions, challenge.",
+            "five": " - ORM: Databases From the Back-End: ORM; Working with Databases: databases from the back-end."
+        },
+        "keywords":{
+            "one": "MySQL",
+            "two": "Workbench"
+        }
+    },
+    {
+        "imgUrl": "img/programacionImperativa.png",
+        "name": "IMPERATIVE PROGRAMMING",
+        "semester": "2nd Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - COMPUTATIONAL THINKING: Thinking Like a Computer: making an origami, programming paradigms - from symbol to text.",
+            "two": " - PROGRAMMING IN JAVASCRIPT: Variables, Data Types, and Operators: introduction, variables and data types, operators; Working with Functions: regular functions, arrow functions; Controlling the Application Flow: logical operators, if/else, ternary if/switch; Loops: Repeat...repeat...repeat: for loop, while/do while; Strings and Arrays: Working with Collections: introduction to arrays, array methods, string methods, array and string methods; Literal Objects: literal objects; Content Integration I and II; Midterm.",
+            "three": " - ALGORITHMS: Iteration Algorithms and Decision Making: introduction to module 3, exercises; Matrices: what is a matrix?, double for; Sorting Methods: bubble sort, organizing the CodeSandbox, hands-on bubble sort; Final Exam; Search Algorithms: search algorithms.",
+            "four": " - CLOSURE: Computational Complexity: counting instructions, computational complexity; Recursion: array methods."
+        },
+        "keywords":{
+            "one": "JavaScript",
+            "two": "Node JS",
+            "three": "VSCode",
+            "four": "CodeSandbox"
+        }
+    },
+    {
+        "imgUrl": "img/oop.png",
+        "name": "OBJECT-ORIENTED PROGRAMMING",
+        "semester": "3rd Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING: What is Java?: welcome, first approach to Java, first program, data types, control structures; Introduction to Java: String, Integer, Float, data input, Scanner, functions, array; Objects and UML: concept of Objects and Classes, Classes, attributes, responsibilities, and constructor, encapsulation (public/private), UML diagram; Classes: implementation of classes in Java, protecting encapsulation, instance, the class, class variables and methods, conclusion.",
+            "two": " - OBJECT-ORIENTED PROGRAMMING IN JAVA: Relationships Between Classes: relationships between classes, UML representation of relationships, aggregation, composition, implementation in Java, conclusion; Inheritance in UML: relationships between classes, inheritance, scope, protected, method signature, overloading and overriding; Inheritance in Java: inheritance, overloading and overriding, the object class, code example, conclusion; Abstract Classes: concept of abstract class, use of abstract classes in design, abstract methods, polymorphism, differences with concrete classes, conclusion; Interface: interface, concept of interface (difference with inheritance), implements (use of interfaces), comparable interface, conclusion; Midterm; Collections: collections, iterator, general methods, search and traverse a collection, types in the definition of collections (generics), ArrayList, Set, Hash; Exception Handling: introduction, exceptions, creating our own exceptions.",
+            "three": " - DESIGN PATTERNS: Introduction to Design Patterns: patterns, concept of design patterns, Singleton, Factory; State Pattern; Composite Pattern; Final Evaluation; Observer Pattern; Strategy Pattern."
+        },
+        "keywords":{
+          "one": "Java",
+          "two": "Intellij-IDEA",
+          "three": "draw.io"
+        }
+    },
+    {
+        "imgUrl": "img/testing1.png",
+        "name": "TESTING 1",
+        "semester": "3rd Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - ESTING FUNDAMENTALS AND DEFECT MANAGEMENT: First Steps: welcome, introduction to testing, the role of the Tester; Defect Management: defects, defect management, activity.",
+            "two": " - TEST DESIGN AND IMPLEMENTATION: Test Design: test design, activity; Test Levels and Types: test levels, test types, classification; Testing Techniques: testing techniques, activity; Test Implementation and Execution: test implementation, activity; Tests-Review.",
+            "three": " - TEST ANALYSIS AND PLANNING: Static and Dynamic Testing: static and dynamic testing, activity.",
+            "four": " - TEST PLANNING: Test Organization: test planning, activity; Evaluation I.",
+            "five": " - UNIT TESTING: Introduction to JavaScript: JavaScript: installation guide, Node.js, reviewing JavaScript; Debugging: debugging, introduction to Unit Testing; Component Testing: component testing; Unit Test: unit test, activity.",
+            "six": " - BE TESTING: Introduction - API Testing: introduction - API testing; API Testing: API testing.",
+            "seven": " - INTRODUCTION TO AUTOMATION: Fundamentals of Test Automation: fundamentals of test automation; Test Automation: test automation; Evaluation II."
+        },
+        "keywords":{
+          "one": "JavaScript",
+          "two": "Node JS",
+          "three": "JUnit",
+          "four": "Jest",
+          "five": "VSCode",
+          "six": "Postman",
+          "seven": "Selenium IDE"
+        }
+    },
+    {
+        "imgUrl": "img/frontend2.png",
+        "name": "FRONTEND 2",
+        "semester": "4th Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - WELCOME AND INTRODUCTION TO FRONTEND JAVASCRIPT: Welcome: introduction, development, best practices; Introduction to Frontend JavaScript: introduction, development, best practices.",
+            "two": " - DOM MANIPULATION: Introduction to the DOM: the window and document objects, selecting elements, best practices; Modifying Elements with JavaScript: introduction, development, modifying styles, modifying classes; Working with Nodes: introduction, dynamic elements and attributes.",
+            "three": " - REACTIVE WEB: Events: introduction, development, best practices, invoking functions, reserved words: how to declare a variable.",
+            "four": " - CLIENT-SIDE VALIDATION: First Deliverable; Forms I: structure of a form, obtaining form data, normalizing data: string methods; Forms II: How to Validate?: introduction, development, best practices; JSON and Storage: introduction, development, best practices.",
+            "five": " - ASYNCHRONY AND APIs: Introduction to Asynchrony: AJAX, request and response, introduction to HTTP; APIs I: what is an API?, REST, AJAX fetch - get, try, catch, and finally; APIs II: AJAX fetch - post; To-Do App: Docs; To-Do App: Workflow.",
+            "six": " - PRACTICAL IMPLEMENTATION, ANIMATIONS, AND LIBRARIES: Final Evaluation; To-Do App: Improved UX: adding animations; Libraries."
+        },
+        "keywords":{
+          "one": "JavaScript",
+          "two": "Node JS",
+          "three": "HTML",
+          "four": "CSS",
+          "five": "VSCode"
+        }
+    },
+    {
+        "imgUrl": "img/infraestructura1.png",
+        "name": "INFRASTRUCTURE 1",
+        "semester": "4th Semester",
+        "description":"",
+        "githubLink":"",
+        "modules":{
+            "one": " - IMMERSION: Introduction to the Subject & The Big Picture: welcome, introduction to the subject, the data center, the big picture.",
+            "two": " - AUTOMATION: Automation: infrastructure automation, virtualization; Shell Scripting - Part 1: introduction to the Linux terminal, useful commands; Shell Scripting - Part 2: scripting, hands-on practice; PowerShell: introduction to PowerShell, hands-on practice; Python: introduction to Python, hands-on practice; Configuration Management - Ansible: configuration management, getting to know Ansible, Ansible in action. Evaluation.",
+            "three": " - CONTAINERS: Docker in Depth: in-depth Docker, hands-on practice; Docker Ecosystem and Best Practices.",
+            "four": " - CLOUD COMPUTING: Cloud Computing, A Holistic and Integrative Look; Cloud Computing: Networks (VPC + ELB): concept of VPC network, elasticity vs scalability, AWS VPC; Building a Small Environment in AWS: what is a Load Balancer and what is it used for?; Cloud Storage; Final Evaluation: database as a service, RDS, DynamoDB; Cloud Databases."
+        },
+        "keywords":{
+          "one": "Virtual Box",
+          "two": "Vagrant",
+          "three": "Linux",
+          "four": "Bash",
+          "five": "Python",
+          "six": "PowerShell",
+          "seven": "Docker",
+          "eight": "Virtual Box",
+          "nine": "AWS"
+        }
+    },
+    {
+        "imgUrl": "img/backend1.png",
+        "name": "BACKEND 1",
+        "semester": "5th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+            "one": " - DESIGN PATTERNS: Welcome: What is backend?, introduction, unit tests, what is JUnit?, validating what we've learned; Template Method Pattern; Chain of Responsibility Pattern; Proxy Pattern; Flyweight Pattern; Facade Pattern.",
+            "two": " - LOGGING AND DATA ACCESS: Logging (tracing and debugging): What is logging?, log4j architecture, conclusion; Database Access: introduction, JDBC, H2 database, conclusion, integrative project; Database Query and Transactions; DAO (Data Access Object) Pattern; Coding Workshop; Maven.",
+            "three": " - FRAMEWORK FOR AGILE APPLICATION DEVELOPMENT: Introduction to Spring Boot: review, HTTP protocol, framework, Spring & Spring Boot, conclusion; MVC (Model View Controller) Pattern: introduction, MVC, Spring MVC and Spring Boot MVC, conclusion, integrative project; Coding Workshop on Integrative Project: Thymeleaf; Rest API: introduction, JSON, annotations in the controller, web API layer design, Postman, conclusion; Rest API II: introduction, data transfer object (DTO), ResponseEntity, conclusion; Consuming APIs: consuming API from the view, consuming API from the backend; Dependency Injection: project structure, introduction to dependency injection, dependency injection, review, conclusion; ORM: data layer, object-relational mapping (ORM), JPA/Hibernate, conclusion; Spring Data - Hibernate: relationship mapping, join column, cascading and fetch type, conclusion; HQL: what is HQL?, HQL syntax, conclusion, integrative project; Coding Workshop Applying What Has Been Learned So Far; Non-Relational Databases: MongoDB: introduction, introduction to MongoDB, MongoDB with Spring, conclusion; Distributed Systems: microservices, types of communication between microservices; Exception Handling: review of exceptions in Java, exception handling in Java with Spring Boot, conclusion; Security: authentication and authorization, adding login and security to pages, conclusion, integrative project; Token-based API Authentication with JWT: token-based API authentication with Spring and JWT, API to generate and validate JWT tokens, login with JWT, conclusion; Integration Testing: introduction, unit tests vs integration tests, integration tests with Spring Boot, conclusion; Coding Workshop and Delivery; Documentation: Swagger, Swagger with Spring Boot, conclusion; Deploying APIs in Docker: introduction, deployment process, conclusion; Coding Workshop on Integration Testing."
+        },
+        "keywords": {
+            "one": "Java",
+            "two": "JUnit",
+            "three": "Log4j",
+            "four": "JDBC",
+            "five": "H2",
+            "six": "Maven",
+            "seven": "Spring Boot",
+            "eight": "Postman",
+            "nine": "MongoDB",
+            "ten": "IntelliJ"
+        }
+    },
+    {
+        "imgUrl": "img/frontend3.png",
+        "name": "FRONTEND 3",
+        "semester": "6th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+            "one": " - GETTING STARTED WITH REACT: From Vanilla JavaScript to React: welcome: what is backend?, Intro to React, Toolset for working with React, adding React to an existing page, What did we learn today?; Tools and First Project: JSX integration in React, Create-react-app and ViteJS, React Developer Tools, Hello React, What did we learn today?.",
+            "two": " - COMPONENTIZATION IN REACT: Thinking in React: welcome, What is a component?, component reuse, What are props?, prop-children + fragment, What did we learn today?; Working with Components: welcome, immutability concept, prop-key + map(), styles in React, What did we learn today?.",
+            "three": " - GETTING TO KNOW REACT HOOKS: Hooks: welcome, intro to Hooks, Hook: useState(), state vs setState(), What did we learn today?; Events and Forms: events in React, forms in React, reviewing validations, What did we learn today?; General Review; First Evaluation.",
+            "four": " - COMPONENT LIFECYCLE: Lifecycle: welcome, lifecycle in React, useEffect, Let's Compare!, What did we learn today?; Asynchronous Requests in React: asynchronous requests in React, useCallback() and useMemo(), What did we learn today?.",
+            "five": " - NAVIGATION AND TESTING IN REACT: React Router: welcome, initial setup, nested routes, parameterized routes, history API, What did we learn today?; Intro to Testing in React: welcome, Review!, Jest, React Testing Library, What did we learn today?.",
+            "six": " - MANAGING GLOBAL STATE: Global State: welcome, global states in React, provider, consumer and useContext(), What did we learn today?; Global State with Storage: welcome, localStorage and sessionStorage, Hook: useReducer(), useReducer + useContext, What did we learn today?; Final Evaluation - Presentation; Custom Hooks: welcome, custom Hooks, examples of custom Hooks, What did we learn today?.",
+            "seven": " - TOOLS: More Tools in React: welcome, error handling, Error Boundary, notifications, What did we learn today?; The Importance of Testing: welcome, TDD: Test-Driven Development, synchronous vs asynchronous testing, What did we learn today?."
+        },
+        "keywords": {
+            "one": "React",
+            "two": "JavaScript",
+            "three": "Vite",
+            "four": "GitHub",
+            "five": "Jest"
+        }
+    },
+    {
+        "imgUrl": "img/infraestructura2.png",
+        "name": "INFRASTRUCTURE 2",
+        "semester": "6th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+            "one": " - IMMERSION: Welcome to Infrastructure II: welcome: course axes, connection with other subjects, instructions for using AWS; What is DevOps?: introduction to DevOps, DevOps tools, roles in the DevOps ecosystem, expectations in the DevOps ecosystem.",
+            "two": " - INFRASTRUCTURE AS CODE: Infrastructure as Code: The Discipline: infrastructure as code: the concept, before infrastructure as code, two paradigms for infrastructure as code, IaC tool ecosystem; Infrastructure as Code in AWS: CloudFormation: what is it about?, how to use it?, where do we use it?, who uses it?, Time to practice!; Infrastructure as Code: Ansible: what is it about?, how to use it?, where do we use it?, who uses it?, Time to practice!; Infrastructure as Code: Terraform: what is it about?, how to use it?, where do we use it?, who uses it?, Time to practice!; Infrastructure as Code: Terraform: Terraform plugins: providers and provisioners, domain-specific language, Time to practice!, bonus track; Midterm Exam.",
+            "three": " - PIPELINES: Introduction to the World of Pipelines: pipelines what are they and what are they for?, what technologies exist?, GitLab; Pipelines: Build and Continuous Integration: what is the build process and what do we include in it?, continuous integration, what is an artifact?, principle of immutability; Pipelines: Release and Continuous Delivery: the release process, continuous delivery and continuous deployment; Pipelines: End-To-End: pipelines: CI/CD, combining deployments, how to create a successful CI/CD pipeline?.",
+            "four": " - MONITORING: Monitoring: Introduction: what does it mean to monitor?, what do we look for when monitoring?, monitoring infrastructure/monitoring applications, the importance of metrics; Monitoring: Monitoring Infrastructure: monitoring infrastructure, auto-scaling and elasticity, Time to practice!; Monitoring: Monitoring Applications: monitoring applications, what do we look at when monitoring applications?, using CloudWatch to monitor applications; Final Exam.",
+            "five": " - COURSE WRAP-UP: Build a Pipeline: what are we going to do?, set-up + GitLab, Time to practice!; Other Modern Infrastructure Concepts: what are we going to do?, Time to practice!"
+        },
+        "keywords": {
+            "one": "AWS",
+            "two": "AWS EC2",
+            "three": "AWS S3",
+            "four": "AWS VPC",
+            "five": "AWS CloudWatch",
+            "six": "AWS IAM",
+            "seven": "Ansible",
+            "eight": "Terraform",
+            "nine": "GitLab",
+            "ten": "Docker"
+        }
+    },
+    {
+        "imgUrl": "img/logo2.png",
+        "name": "INTEGRATIVE PROJECT",
+        "semester": "7th Semester",
+        "description": "",
+        "githubLink": "",
+        "modules": {
+            "one": " - INTEGRATIVE PROJECT: Development of an e-commerce web application using React and JavaScript for client-side interactions and/or validations. Good practices were employed in FrontEnd design and development to create responsive sites. The BackEnd and RESTful API were developed in Java, using Spring Boot as the framework and employing best practices of the MVC design pattern. Design and organization of relational data using UML, interacting with PostgreSQL. The project was developed following Agile Methodologies (Scrum) and managed using Git for version control in a private repository, facilitating collaborative and organized work."
+        },
+        "keywords": {
+            "one": "JavaScript",
+            "two": "React",
+            "three": "Java",
+            "four": "Spring Boot",
+            "five": "Spring Security",
+            "six": "Tailwind",
+            "seven": "Docker",
+            "eight": "Git",
+            "nine": "GitHub",
+            "ten": "AWS S3",
+            "eleven": "PostgreSQL"
+        },
+        "url": "https://dh.jackmoon.dev/"
+    }                      
+    
+]

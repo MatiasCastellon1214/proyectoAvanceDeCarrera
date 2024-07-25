@@ -1,13 +1,14 @@
-[{
+[
+  {
     "imgUrl": "img/metodologiaDeTrabajo.png",
     "nombre": "METODOLOGÍA DE TRABAJO",
     "bimestre": "1° bimestre",
     "descripcion":"",
     "githubLink":"",
     "modulos":{
-        "uno": "LEARNING AGILITY: Agilidad de Aprendizaje - Introducción; Los 5 Factores de Learning Agility: introducción al concepto de agilidad de aprendizaje, charlas TED, esspacios alternativos de aprendizaje; Integración y Cierre.",
-        "dos": "PRODUCTOS DIGITALES ÁGILES: Introducción a Lean, filosofía Lean, ¿qué es Lean Startup?, introducción a Kanban,¿qué es Kanban?, valores y principio de Kanban, Scrum: introducción a Scrum, roles y responsabilidades de Scrum, artefactos de Scrum, eventos de Scrum, la nueva guía de Scrum; Visión del Producto: visión del producto, poniendo en práctica la visión del producto, agile inception,  producto mínimo vibale.",
-        "tres": " AGILIDAD EN MOVIMIENTO: de requerimientos a user stories, priorización del backlog, refinamiento de historias, criterios de aceptación; Productos Roadmap: métricas ágiles, user story mapping, road map y release plan; Métricas Ágiles: arquitectura ágil, estimación y capacity, métricas en Kanban, métricas Scrum; Agile Development: agile development, introducción al testing, caja blanca y caja negra, TDD; Recta Final."
+        "uno": " - LEARNING AGILITY: Agilidad de Aprendizaje - Introducción; Los 5 Factores de Learning Agility: introducción al concepto de agilidad de aprendizaje, charlas TED, esspacios alternativos de aprendizaje; Integración y Cierre.",
+        "dos": " - PRODUCTOS DIGITALES ÁGILES: Introducción a Lean, filosofía Lean, ¿qué es Lean Startup?, introducción a Kanban,¿qué es Kanban?, valores y principio de Kanban, Scrum: introducción a Scrum, roles y responsabilidades de Scrum, artefactos de Scrum, eventos de Scrum, la nueva guía de Scrum; Visión del Producto: visión del producto, poniendo en práctica la visión del producto, agile inception,  producto mínimo vibale.",
+        "tres": " - AGILIDAD EN MOVIMIENTO: de requerimientos a user stories, priorización del backlog, refinamiento de historias, criterios de aceptación; Productos Roadmap: métricas ágiles, user story mapping, road map y release plan; Métricas Ágiles: arquitectura ágil, estimación y capacity, métricas en Kanban, métricas Scrum; Agile Development: agile development, introducción al testing, caja blanca y caja negra, TDD; Recta Final."
     },
     "palabrasClave":{
       "uno": "Lean",
@@ -15,82 +16,82 @@
       "tres": "Scrum",
       "cuatro": "User Story"
     }  
-},
-{
-  "imgUrl": "img/learningAgility.png",
-  "nombre": "LEARNING AGILITY",
-  "bimestre": "2° bimestre",
-  "descripcion":"",
-  "githubLink":"",
-  "modulos":{
-    "uno": "LEARNING AGILITY: Agilidad de Aprendizaje - Introducción; Los 5 Factores de Learning Agility: introducción al concepto de agilidad de aprendizaje, charlas TED, esspacios alternativos de aprendizaje; Integración y Cierre."
   },
-  "palabrasClave":{
-    "uno": "Agilidad de Aprendizaje"
-    
-  } 
-},
-{
-  "imgUrl": "img/designThinking.png",
-  "nombre": "DESIGN THINKING",
-  "bimestre": "3° bimestre",
-  "descripcion":"",
-  "githubLink":"",
-  "modulos":{
-    "uno": "INTRODUCCIÓN A DESIGN THINKING: Diseño es el pensamiento convertido en herramienta: bienvenida, ¿qué es el design thinking?, pilares del design thinking, DT como método científico; Design Thinking: Una Mirada Transversal: diferentes modelos del design thinking, las fases del design thinking, sobre el trabajo final integrador.",
-    "dos": "EMPATIZAR:  Conociendo a los Usuarios: Contexto: empatizar: introducción, métodos cuantitativos, métodos cualitativos, estrategias de investigación, mapa de actores, la importancia de empatizar; Conociendo a los Usuarios: Investigación: métodos cualitativos, datos preexistentes, herramientas para empatizar; Conociendo a los Usuarios: Definiendo Persona: ¿qué es un clustering?, protopersona, ¿cúal es la diferencia entre arquetipo-estereotipo y persona-target?, conociendo a los usuarios/as: definiendo personas.",
-    "tres": "DEFINIR E IDEAR: El Foco en el Problema: definir, ¿cómo podríamos?, customer journey map, pain points; El Foco en la Solución: creatividad y design thinking, reglas de ideación y herramientas, contexto de la solución, priorización y viabilidad, lienzo de propuesta de valor; El Foco en la Solución."
+  {
+    "imgUrl": "img/learningAgility.png",
+    "nombre": "LEARNING AGILITY",
+    "bimestre": "2° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+      "uno": " - LEARNING AGILITY: Agilidad de Aprendizaje - Introducción; Los 5 Factores de Learning Agility: introducción al concepto de agilidad de aprendizaje, charlas TED, esspacios alternativos de aprendizaje; Integración y Cierre."
+    },
+    "palabrasClave":{
+      "uno": "Agilidad de Aprendizaje"
+      
+    } 
   },
-  "palabrasClave":{
-    "uno": "Mapa de Actores",
-    "dos": "Juorney Map"
-  } 
-},
-{
-  "imgUrl": "img/comunicacionEfectiva.png",
-  "nombre": "COMUNICACIÓN EFECTIVA",
-  "bimestre": "4° bimestre",
-  "descripcion":"",
-  "githubLink":"",
-  "modulos":{
-    "uno": "COMUNICACIÓN EFECTIVA: La Comunicación-Bienvenida-Introduccción: modelos mentales, materia complementario; Especios Conversacionales y Tipos de Conversaciones: introducción, presentaciones efectivas, diseño de conversaciones, tipos de lenguaje; Integración y Cierre: caja de herramientas."
+  {
+    "imgUrl": "img/designThinking.png",
+    "nombre": "DESIGN THINKING",
+    "bimestre": "3° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+      "uno": " - INTRODUCCIÓN A DESIGN THINKING: Diseño es el pensamiento convertido en herramienta: bienvenida, ¿qué es el design thinking?, pilares del design thinking, DT como método científico; Design Thinking: Una Mirada Transversal: diferentes modelos del design thinking, las fases del design thinking, sobre el trabajo final integrador.",
+      "dos": " - EMPATIZAR:  Conociendo a los Usuarios: Contexto: empatizar: introducción, métodos cuantitativos, métodos cualitativos, estrategias de investigación, mapa de actores, la importancia de empatizar; Conociendo a los Usuarios: Investigación: métodos cualitativos, datos preexistentes, herramientas para empatizar; Conociendo a los Usuarios: Definiendo Persona: ¿qué es un clustering?, protopersona, ¿cúal es la diferencia entre arquetipo-estereotipo y persona-target?, conociendo a los usuarios/as: definiendo personas.",
+      "tres": " - DEFINIR E IDEAR: El Foco en el Problema: definir, ¿cómo podríamos?, customer journey map, pain points; El Foco en la Solución: creatividad y design thinking, reglas de ideación y herramientas, contexto de la solución, priorización y viabilidad, lienzo de propuesta de valor; El Foco en la Solución."
+    },
+    "palabrasClave":{
+      "uno": "Mapa de Actores",
+      "dos": "Juorney Map"
+    } 
   },
-  "palabrasClave":{
-    "uno": "Conversaciones",
-    "dos": "Lenguajes"
+  {
+    "imgUrl": "img/comunicacionEfectiva.png",
+    "nombre": "COMUNICACIÓN EFECTIVA",
+    "bimestre": "4° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+      "uno": " - COMUNICACIÓN EFECTIVA: La Comunicación-Bienvenida-Introduccción: modelos mentales, materia complementario; Especios Conversacionales y Tipos de Conversaciones: introducción, presentaciones efectivas, diseño de conversaciones, tipos de lenguaje; Integración y Cierre: caja de herramientas."
+    },
+    "palabrasClave":{
+      "uno": "Conversaciones",
+      "dos": "Lenguajes"
+    }
+  },
+  {
+    "imgUrl": "img/uxui.png",
+    "nombre": "UX/UI",
+    "bimestre": "5° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+      "uno": " - INTRODUCCIÓN A DISEÑO UX: Diseño UX: ¡Hola, Pesonas!: bienvenida, ¿diseño UX,UI?¿es lo mismo?, design thinking & diseño UX, trabajo práctico integrador; Investigar e Idear: brief: introducción, convergencia y divergencia: una herramienta para pensar ideas, Spoiler! introducción al diseño de interacción .",
+      "dos": " - DISEÑO E INTERACCIÓN: Arquitectura de Información, arquitectura de información, content prototype, user flow; Prototipado: UX writing, prototipado, hola, Figma; Patrones de diseño: trabajo práctico integrador: primer informe a dregg, ¿qué son los patrones de diseño?, patrones en apps, patrones en sitios web; Fundamentos del Diseño Visual: diseño visual, diseñar experiencias accesibles, diseñar accesible, moodboard, hand off; Usabilidad, la Hora de la Vedad: evaluar  y validar, usabilidad, pruebas de usabilidad; Pruebas con Usuarios: la hora de la verdad, métodos de evaluación y validación, las herramientas de medición; Feedback y Cierre: narrativa para proyectos de diseño, ¿cómo contar una historia que las personas recuerden?, UX feat. Pixar, feedback, prototipos en acción."
+    },
+    "palabrasClave":{
+      "uno": "User Flow",
+      "dos": "Patrones de Diseño",
+      "tres": "Figma Pro",
+      "cuatro": "Pruebas de Usabilidad"
+    } 
+  },
+  {
+    "imgUrl": "img/teamworkAndCollaboration.png",
+    "nombre": "TEAM WORK AND COLLABORATION",
+    "bimestre": "6° bimestre",
+    "descripcion":"",
+    "githubLink":"",
+    "modulos":{
+      "uno": " - TEAM WORK AND COLLABORATION: Agilidad Emocional - Autoliderazgo y Gestión del Conflicto: definición inicial, agilidad emocional, inteligencia emocional; El Camino de la Colaboración: gestión emocional de los conflictos, gestión del conflicto - Modelo SCI, inteligencia emocional; Integración y Cierre: Actividad Entregable."
+    },
+    "palabrasClave":{
+      "uno": "Test de Kilman",
+      "dos": "Soft Skills",
+      "tres": "Tranajo en Equipo"
+    } 
   }
-},
-{
-  "imgUrl": "img/uxui.png",
-  "nombre": "UX/UI",
-  "bimestre": "5° bimestre",
-  "descripcion":"",
-  "githubLink":"",
-  "modulos":{
-    "uno": "INTRODUCCIÓN A DISEÑO UX: Diseño UX: ¡Hola, Pesonas!: bienvenida, ¿diseño UX,UI?¿es lo mismo?, design thinking & diseño UX, trabajo práctico integrador; Investigar e Idear: brief: introducción, convergencia y divergencia: una herramienta para pensar ideas, Spoiler! introducción al diseño de interacción .",
-    "dos": "DISEÑO E INTERACCIÓN: Arquitectura de Información, arquitectura de información, content prototype, user flow; Prototipado: UX writing, prototipado, hola, Figma; Patrones de diseño: trabajo práctico integrador: primer informe a dregg, ¿qué son los patrones de diseño?, patrones en apps, patrones en sitios web; Fundamentos del Diseño Visual: diseño visual, diseñar experiencias accesibles, diseñar accesible, moodboard, hand off; Usabilidad, la Hora de la Vedad: evaluar  y validar, usabilidad, pruebas de usabilidad; Pruebas con Usuarios: la hora de la verdad, métodos de evaluación y validación, las herramientas de medición; Feedback y Cierre: narrativa para proyectos de diseño, ¿cómo contar una historia que las personas recuerden?, UX feat. Pixar, feedback, prototipos en acción."
-  },
-  "palabrasClave":{
-    "uno": "User Flow",
-    "dos": "Patrones de Diseño",
-    "tres": "Figma Pro",
-    "cuatro": "Pruebas de Usabilidad"
-  } 
-},
-{
-  "imgUrl": "img/teamworkAndCollaboration.png",
-  "nombre": "TEAM WORK AND COLLABORATION",
-  "bimestre": "6° bimestre",
-  "descripcion":"",
-  "githubLink":"",
-  "modulos":{
-    "uno": "TEAM WORK AND COLLABORATION: Agilidad Emocional - Autoliderazgo y Gestión del Conflicto: definición inicial, agilidad emocional, inteligencia emocional; El Camino de la Colaboración: gestión emocional de los conflictos, gestión del conflicto - Modelo SCI, inteligencia emocional; Integración y Cierre: Actividad Entregable."
-  },
-  "palabrasClave":{
-    "uno": "Test de Kilman",
-    "dos": "Soft Skills",
-    "tres": "Tranajo en Equipo"
-  } 
-}
 
 ]
