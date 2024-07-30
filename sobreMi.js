@@ -16,6 +16,11 @@ const sobreMiContent = `
                 <i class="fas fa-file-alt"> CV - Resumido</i>
             </button>
         </a>
+        <a href="https://drive.google.com/file/d/1JG_3jwZX_CUPY-2t1iZqfri_wzgkkunV/view?usp=sharing" class="me-3" target="_blank"">
+            <button class="btn w-100">
+                <i class="fas fa-file-alt"> Summary - CV</i>
+            </button>
+        </a>
         <a href="https://drive.google.com/file/d/1L39np5bGIBO4QxOxDtTyLAe2Lt_lkKZv/view?usp=drive_link" class="me-3" target="_blank">
             <button class="btn w-100">
                 <i class="fa-regular fa-folder-open"> CV - Extendido</i>
