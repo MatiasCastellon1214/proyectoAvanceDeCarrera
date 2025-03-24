@@ -9,6 +9,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Roboto:wght@900&display=swap" rel="stylesheet">
+  <!-- Agrega estos enlaces en el head -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
   <script src="https://kit.fontawesome.com/7fc5a0630a.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -37,6 +40,10 @@
     <section id="carrera-section" class="d-flex flex-column justify-content-center align-items-center">
       <div class="container container-carrera mt-5 col-12 col-sm-8 col-md-10 col-lg-10">
         <h2 class="text-center ctd">Certified Tech Developer</h2>
+        <button id="toggleCarrera" class="btn2 d-sm-block d-md-none mt-2 mb-2 w-100">
+          Ver más
+        </button>
+      <div id="carrera-content" class="collapse d-md-block"></div>
       </div>
     </section>
 
