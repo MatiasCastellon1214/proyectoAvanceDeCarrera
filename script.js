@@ -20,7 +20,7 @@ fetch("json/listadoMaterias.json")
           <img src="${materia.imgUrl}" alt="${materia.nombre}">
           <h3 class="nombre">${materia.nombre}</h3>
           <p class="bimestre"> ${materia.bimestre}</p>
-          ${materia.url ? `<div><a href="${materia.url}" target="_blank" class="text-muted"><i class="fa-solid fa-link"></i></a> <a href="https://github.com/1774-ProyectoIntegrador/" target="_blank" class="text-muted"><i class="fa-brands fa-github"></i></a></div>` : ""}
+          ${materia.url ? `<div><a href="${materia.url}" target="_blank" class="text-muted"><i class="fa-solid fa-link"></i></a> <a href="https://github.com/RentStudioDH" target="_blank" class="text-muted"><i class="fa-brands fa-github"></i></a></div>` : ""}
           
         </article>
       

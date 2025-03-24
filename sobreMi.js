@@ -8,6 +8,7 @@ const sobreMiContent = `
       <p>Carrera de Tecnicatura:<strong> Certified Tech Developer.</strong></p>
       <p class="mt-3">Carrera de grado: <strong>Licenciado en Ciencias Biológicas</strong></p>
       <p>Trabajo actual: <strong>Becario Doctoral de Investigación Científica en CONICET</strong></p>      
+      <p>Estudio actual: <strong>Analista Programador Universitario - Universidad Nacional de Jujuy</strong></p>
       
     </div>
     <div class="icon-links d-flex flex-column gap-4">
