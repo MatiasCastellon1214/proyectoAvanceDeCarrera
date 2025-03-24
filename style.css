@@ -301,47 +301,31 @@ p{
 }
 
 
-
-/* Estilos para el carrusel */
-.slick-slide {
-  padding: 0 10px;
+/* Vista por defecto - Grid visible, Carrusel oculto */
+.grid-view {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.slick-dots {
-  bottom: -30px;
+.carousel-view {
+  display: none;
 }
 
-.slick-dots li button:before {
-  font-size: 12px;
-  color: #666;
-}
-
-.slick-dots li.slick-active button:before {
-  color: #333;
-}
-
-/* Ocultar el grid en móvil */
+/* En móvil - Grid oculto, Carrusel visible */
 @media (max-width: 574px) {
-  #materias-container.row, 
-  #talleres-container.row {
-    display: none !important;
+  .grid-view {
+      display: none !important;
   }
   
-  .materias-carousel, 
-  .talleres-carousel {
-    display: block !important;
-  }
-}
-
-/* Ocultar carrusel en desktop */
-@media (min-width: 575px) {
-  .materias-carousel, 
-  .talleres-carousel {
-    display: none !important;
+  .carousel-view {
+      display: block;
   }
   
-  #materias-container.row, 
-  #talleres-container.row {
-    display: flex !important;
+  .slick-slide {
+      padding: 0 10px;
+  }
+  
+  .slick-dots {
+      bottom: -25px;
   }
 }
