@@ -33,3 +33,5 @@ Este proyecto es una aplicación web que permite visualizar el listado de **mate
 ✅ Sección de presentación personal y currículum.  
 
 ---
+![HTML](img/imagen1.png)
+![HTML](img/imagen2.png)
