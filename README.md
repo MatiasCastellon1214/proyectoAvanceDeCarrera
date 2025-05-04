@@ -1,4 +1,4 @@
-# 🎓 Project - Certified Tech Developer  
+# 🎓 Certified Tech Developer – Web Curriculum Viewer
 
 ## 📌 Career description  
 
@@ -26,15 +26,29 @@ This project is a web application that allows you to view the list of **subjects
 
 ---
 
-## 🎯 Main functionalities  
+## 🎯 Main Features
 
-✅ Display of subjects and workshops with their descriptions.
-✅ Access to the syllabus of each subject.  
-✅ Section for personal presentation and curriculum vitae. 
+- ✅ Display of subjects and workshops with their descriptions.  
+- ✅ Access to the syllabus of each subject.  
+- ✅ Section for personal presentation and curriculum vitae.
 
 ---
-![HTML](img/imagen1.png)
-![HTML](img/imagen2.png)
+
+## 📷 Demo
+
+![Project Demo](img/proyectoAvanceDeCarrera.gif)
+
+🔗 [Live Site](https://careerproyectctd.netlify.app/)
 
 
-Link al sitio: https://careerproyectctd.netlify.app/
+
+## 🧩 How to Run Locally (Optional)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
+
+2. Open the `index.html` file in your preferred browser.
+
+
