@@ -1,37 +1,40 @@
-# 🎓 Proyecto - Certified Tech Developer  
+# 🎓 Project - Certified Tech Developer  
 
-## 📌 Descripción de la carrera  
+## 📌 Career description  
 
-**Certified Tech Developer** es un programa de formación intensivo creado por **Digital House** en colaboración con **Mercado Libre** y **Globant**, diseñado para formar desarrolladores de software con un enfoque en las habilidades más demandadas por la industria.  
+**Certified Tech Developer** is an intensive training programme created by **Digital House** in collaboration with **Mercado Libre** and **Globant**, designed to train software developers with a focus on the skills most in demand by the industry.  
 
-El plan de estudios abarca diversas áreas de desarrollo, incluyendo **programación web, bases de datos, infraestructura, testing, metodologías ágiles y desarrollo de aplicaciones**. Con una duración de **21 meses**, el programa combina teoría y práctica, permitiendo a los estudiantes adquirir experiencia en proyectos reales y prepararse para el mundo laboral en tecnología.  
+The curriculum covers diverse areas of development, including **web programming, databases, infrastructure, testing, agile methodologies and application development**. With a duration of **21 months**, the programme combines theory and practice, allowing students to gain experience in real projects and prepare for the world of work in technology. 
 
 ---
 
-## 💻 Sobre el proyecto  
+## 💻 About the project  
 
-Este proyecto es una aplicación web que permite visualizar el listado de **materias** y **talleres** del programa Certified Tech Developer, junto con sus respectivos programas de estudio. Además, incluye:  
+This project is a web application that allows you to view the list of **subjects** and **workshops** of the Certified Tech Developer programme, together with their respective syllabus. It also includes:
 
-- 📜 **Mi CV** con información sobre mi formación y experiencia.  
-- ℹ️ **Un apartado sobre mí**, destacando mis intereses y trayectoria.  
+- 📜 **My CV** with information about my education and experience.  
+- ℹ️ **A section about me**, highlighting my interests and background.
 
-### 🚀 Tecnologías utilizadas  
+### 🚀 Technologies used
 
-| Tecnología     | Descripción |
+| Technology     | Description |
 |---------------|------------|
-| ![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) | Estructura de la aplicación. |
-| ![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) | Estilos y diseño. |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) | Interactividad y funcionalidades dinámicas. |
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white) | Diseño responsivo y componentes predefinidos. |
+| ![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) | Structure of the application. |
+| ![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) | Styles and design. |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) | Interactivity and dynamic functionalities. |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white) | Responsive design and predefined components. |
 
 ---
 
-## 🎯 Funcionalidades principales  
+## 🎯 Main functionalities  
 
-✅ Visualización de materias y talleres con sus descripciones.  
-✅ Acceso al programa de estudios de cada materia.  
-✅ Sección de presentación personal y currículum.  
+✅ Display of subjects and workshops with their descriptions.
+✅ Access to the syllabus of each subject.  
+✅ Section for personal presentation and curriculum vitae. 
 
 ---
 ![HTML](img/imagen1.png)
 ![HTML](img/imagen2.png)
+
+
+Link al sitio: https://careerproyectctd.netlify.app/
